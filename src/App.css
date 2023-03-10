@@ -1,0 +1,15 @@
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.btns button {
+  padding: 10px;
+  margin: 15px;
+  background-color: aquamarine;
+  color: black;
+  font-size: 15px;
+  font-weight: 700;
+}
